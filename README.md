@@ -32,33 +32,15 @@ This app provides:
 
 Here are some screenshots and a short demo video of the application:  
 
-- 📷 Screenshot 1: Home Screen & Light Mode
-  
-  <img src="https://github.com/user-attachments/assets/a9b31497-c84a-41c0-a554-b8ed76201d35" alt="Home Screen" width="300"/>
+| Home Screen & Light Mode | Dark Mode | Prayer Times | Azkar Categories |
+|--------------------------|-----------|--------------|-----------------|
+| ![Home Screen](https://github.com/user-attachments/assets/a9b31497-c84a-41c0-a554-b8ed76201d35) | ![Dark Mode](https://github.com/user-attachments/assets/873aaa47-274f-43f4-b2d7-e246079ddef8) | ![Prayer Times](https://github.com/user-attachments/assets/68fd69f9-0de3-49cf-b9ef-0586bbdd9c9a) | ![Azkar Categories](https://github.com/user-attachments/assets/4e8382fc-f176-425c-9c4b-bd6ca98ffc63) |
 
-- 📷 Screenshot 2: Dark Mode
-  
-  <img src="https://github.com/user-attachments/assets/873aaa47-274f-43f4-b2d7-e246079ddef8" alt="Dark Mode" width="300"/>
+| Azkar Chapters | Azkar Items | Rosary Counter |
+|----------------|-------------|----------------|
+| ![Azkar Chapters](https://github.com/user-attachments/assets/537e3daf-10e7-43c5-a910-6b7198511704) | ![Azkar Items](https://github.com/user-attachments/assets/da409888-3346-4a19-bd20-95356b4028ce) | ![Rosary Counter](https://github.com/user-attachments/assets/6a30aea7-0fe2-4f52-beeb-37d8ff0c2776) |
 
-- 📷 Screenshot 3: Prayer Times Screen
-  
-  <img src="https://github.com/user-attachments/assets/68fd69f9-0de3-49cf-b9ef-0586bbdd9c9a" alt="Prayer Times" width="300"/>
-
-- 📷 Screenshot 4: Azkar Categories Screen
-  
-  <img src="https://github.com/user-attachments/assets/4e8382fc-f176-425c-9c4b-bd6ca98ffc63" alt="Azkar Categories" width="300"/>
-
-- 📷 Screenshot 5: Azkar Chapters screen
-  
-  <img src="https://github.com/user-attachments/assets/537e3daf-10e7-43c5-a910-6b7198511704" alt="Azkar Chapters" width="300"/>
-
-- 📷 Screenshot 6: Azkar Items screen
-  
-  <img src="https://github.com/user-attachments/assets/da409888-3346-4a19-bd20-95356b4028ce" alt="Azkar Items" width="300"/>
-
-- 📷 Screenshot 7: Rosary screen
-  
-  <img src="https://github.com/user-attachments/assets/6a30aea7-0fe2-4f52-beeb-37d8ff0c2776" alt="Rosary Counter" width="300"/>
+---
 
 - 🎬 Demo Video: Quick overview of app functionality
 
@@ -68,6 +50,6 @@ https://github.com/user-attachments/assets/b9caa34f-588c-4336-a98e-b877b231bc1a
 ---
 
 ## ⚙️ Setup & Installation
-1. Clone the repository: `git clone <your-repo-link>`
+1. Clone the repository: `git clone https://github.com/manhal203/flutter-daily-azkar.git`
 2. Install dependencies: `flutter pub get`
 3. Run the app: `flutter run`
