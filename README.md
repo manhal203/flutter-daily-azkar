@@ -38,9 +38,11 @@ Here are some screenshots and a short demo video of the application:
 
 | Azkar Chapters | Azkar Items | Rosary Counter |
 |----------------|-------------|----------------|
-| ![Azkar Chapters](https://github.com/user-attachments/assets/537e3daf-10e7-43c5-a910-6b7198511704) | ![Azkar Items](https://github.com/user-attachments/assets/da409888-3346-4a19-bd20-95356b4028ce) | ![Rosary Counter](https://github.com/user-attachments/assets/6a30aea7-0fe2-4f52-beeb-37d8ff0c2776) |
+| ![Azkar Chapters](https://github.com/user-attachments/assets/537e3daf-10e7-43c5-a910-6b7198511704) | ![Azkar Items](https://github.com/user-attachments/assets/da409888-3346-4a19-bd20-95356b4028ce) | ![Rosary Counter](https://github.com/user-attachments/assets/60981ffb-cf6b-45d6-92a7-556b1b9802cc) |
 
----
+---\
+![559851510-6a30aea7-0fe2-4f52-beeb-37d8ff0c2776]()
+
 
 - 🎬 Demo Video: Quick overview of app functionality
 
