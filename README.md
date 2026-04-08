@@ -34,7 +34,7 @@ Here are some screenshots and a short demo video of the application:
 
 | Home Screen & Light Mode | Dark Mode | Prayer Times | Azkar Categories |
 |--------------------------|-----------|--------------|-----------------|
-| ![Home Screen](https://github.com/user-attachments/assets/a9b31497-c84a-41c0-a554-b8ed76201d35) | ![Dark Mode](https://github.com/user-attachments/assets/873aaa47-274f-43f4-b2d7-e246079ddef8) | ![Prayer Times](https://github.com/user-attachments/assets/68fd69f9-0de3-49cf-b9ef-0586bbdd9c9a) | ![Azkar Categories](https://github.com/user-attachments/assets/4e8382fc-f176-425c-9c4b-bd6ca98ffc63) |
+| ![Home Screen](screenshots/Screenshot_٢٠٢٦٠٣٠٨_٠٢٥٧٤٧.jpg) | ![Dark Mode](https://github.com/user-attachments/assets/873aaa47-274f-43f4-b2d7-e246079ddef8) | ![Prayer Times](https://github.com/user-attachments/assets/68fd69f9-0de3-49cf-b9ef-0586bbdd9c9a) | ![Azkar Categories](https://github.com/user-attachments/assets/4e8382fc-f176-425c-9c4b-bd6ca98ffc63) |
 
 | Azkar Chapters | Azkar Items | Rosary Counter |
 |----------------|-------------|----------------|
