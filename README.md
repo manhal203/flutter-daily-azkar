@@ -34,17 +34,17 @@ Here are some screenshots and a short demo video of the application:
 
 | Home Screen & Light Mode | Dark Mode | Prayer Times | Azkar Categories |
 |--------------------------|-----------|--------------|-----------------|
-| ![Home Screen](screenshots/Screenshot_٢٠٢٦٠٣٠٨_٠٢٥٧٤٧.jpg) | ![Dark Mode](https://github.com/user-attachments/assets/873aaa47-274f-43f4-b2d7-e246079ddef8) | ![Prayer Times](https://github.com/user-attachments/assets/68fd69f9-0de3-49cf-b9ef-0586bbdd9c9a) | ![Azkar Categories](https://github.com/user-attachments/assets/4e8382fc-f176-425c-9c4b-bd6ca98ffc63) |
+| ![Home Screen](screenshots/Screenshot_٢٠٢٦٠٣٠٨_٠٢٥٧٤٧.jpg) | ![Dark Mode](screenshots/Screenshot_٢٠٢٦٠٣٠٨_٠٢٥٨٠٣.jpg) | ![Prayer Times](screenshots/Screenshot_٢٠٢٦٠٣٠٨_٠٢٥٧٥٤.jpg) | ![Azkar Categories](screenshots/Screenshot_٢٠٢٦٠٣٠٨_٠٢٥٨٠٩.jpg) |
 
 | Azkar Chapters | Azkar Items | Rosary Counter |
 |----------------|-------------|----------------|
-| ![Azkar Chapters](https://github.com/user-attachments/assets/537e3daf-10e7-43c5-a910-6b7198511704) | ![Azkar Items](https://github.com/user-attachments/assets/da409888-3346-4a19-bd20-95356b4028ce) | ![Rosary Counter](https://github.com/user-attachments/assets/60981ffb-cf6b-45d6-92a7-556b1b9802cc) |
+| ![Azkar Chapters](screenshots/Screenshot_٢٠٢٦٠٣٠٨_٠٢٥٨٢٠.jpg) | ![Azkar Items](screenshots/Screenshot_٢٠٢٦٠٣٠٨_٠٢٥٨٢٥.jpg) | ![Rosary Counter](screenshots/Screenshot_٢٠٢٦٠٣٠٨_٠٢٥٨٣٣.jpg) |
 
 ---
 
 - 🎬 Demo Video: Quick overview of app functionality
 
-https://github.com/user-attachments/assets/b9caa34f-588c-4336-a98e-b877b231bc1a
+https://github.com/user-attachments/assets/a222c8d4-5f06-4130-9010-c410aa71f7f3
 
   
 ---
